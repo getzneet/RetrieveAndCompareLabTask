@@ -1,0 +1,4 @@
+t,subject_id,elicitation,age,gender,date,reaction_time,choice,choice_maximizing_utility,probabilities,rewards,outcome,cf_outcome,key_pressed,cond,session
+0,56,2,,male,2020-02-18_18:52,2.6049092411994934e-06,-1.0,-1,-1,-1,-1,-1,-1,2,1
+1,56,2,,male,2020-02-18_18:52,1.1832453310489655e-06,-1.0,-1,-1,-1,-1,-1,-1,1,1
+2,56,2,,male,2020-02-18_18:52,1.9599683582782745e-06,-0.1,-1,-1,-1,-1,-1,-1,0,1
